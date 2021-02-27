@@ -1,4 +1,4 @@
-# API, REST, RESTFUL
+# API RESTFUL
 
 ## :pencil: API
 
