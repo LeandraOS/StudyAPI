@@ -28,23 +28,21 @@ Desse modo, o REST realiza a delimitação de algumas obrigações nas transfer�
 
 ## :pushpin:	 Constrainsts para ser uma API RESTful
 
-:clipboard:	**Uniform Interface:** 
-- [X] Uniformidade
-- [X] Constância
-- [X] Padrão na construção da interface.
+ :clipboard:	**Uniform Interface:** 
+ - [X] Uniformidade
+ - [X] Constância
+ - [X] Padrão na construção da interface.
 
- A API precisa ser coerente para quem vai consumi-lá. Precisa fazer sentido para o cliente.
-  Logo, precisam possuir: 
+  A API precisa ser coerente para quem vai consumi-lá. Precisa fazer sentido para o cliente.
+   Logo, precisam possuir: 
 
-  :heavy_check_mark: Uso correto dos verbos HTTP; 
+   :heavy_check_mark: Uso correto dos verbos HTTP; 
 
-  :heavy_check_mark: Endpoints coerentes (todos os endpoints no plural, por exemplo);
+   :heavy_check_mark: Endpoints coerentes (todos os endpoints no plural, por exemplo);
 
-  :heavy_check_mark: Utilização somente uma linguagem de comunicação (json); 
+   :heavy_check_mark: Utilização somente uma linguagem de comunicação (json); 
 
-  :heavy_check_mark: Realizar envio de respostas aos clientes.
-
-  Estes, portanto, são exemplos de aplicação de uma *Uniform Interface*.
+   :heavy_check_mark: Realizar envio de respostas aos clientes.
 
 :computer: **Client-server:** Separação do cliente e do armazenamento de dados (servidor), dessa forma, é possível ter portabilidade no sistema.
 Por exemplo, utilizando React para WEB e React Native para aplicações no smartphone.
@@ -57,9 +55,9 @@ Por exemplo, utilizando React para WEB e React Native para aplicações no smart
 
 :mag_right: **Layered System:** O cliente acessa a um endpoint, sem precisar saber de questões como: 
 
-- Complexidade
-- Passos estão sendo necessários para o servidor responder a requisição
-- Quais outras camadas o servidor estará lidando, para que a requisição seja respondida.
+ - Complexidade
+ - Passos estão sendo necessários para o servidor responder a requisição
+ - Quais outras camadas o servidor estará lidando, para que a requisição seja respondida.
 
 :wrench: **Code on demand (optional):** Dá a possibilidade da aplicação captar códigos, como o javascript, por exemplo, e executar no cliente.
 
