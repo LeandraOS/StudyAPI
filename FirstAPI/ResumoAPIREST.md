@@ -2,13 +2,13 @@
 
 ## :pencil: API
 
-Uma ótima analogia para se entender como se dá o funcionamento de uma API é a da logística adotada pelos restaurantes. Onde se tem, clientes, garçons e a cozinha. Em uma API não é diferente, temos um cliente (Client), o responsável por levar os pedidos até a cozinha (API) e o servidor(Server) que representa a cozinha e que por sua vez faz a entrega das requisições realizadas pelos cliente(browser) e levados pela API.
+Uma ótima analogia para se entender como se dá o funcionamento de uma API é a da logística adotada pelos restaurantes. Onde se tem, clientes, garçons e uma cozinha. Em uma API não é diferente, tem-se o cliente (Client), a (API) que é responsável por levar os pedidos até o servidor e o servidor(Server) que representa a cozinha e que por sua vez faz a entrega das requisições realizadas pelos cliente(browser) e levados pela API.
 
 O Acrônimo API já foi bastante citado, mas qual o seu significado? 
 
 **API** - **A**pplication **P**rogramming **I**nterface.
 
-Pode-se definir como uma interface de programação de Aplicações, basicamente é um conjunto de rotinas e padrões estabelecidos por uma aplicação, possibilitando que outras aplicações façam uso de suas funcionalidades. Além disso, realiza as seguintes funções.
+Pode-se definir como uma ***Interface de Programação de Aplicações***, basicamente é um conjunto de rotinas e padrões estabelecidos por uma aplicação, possibilitando que outras aplicações façam uso de suas funcionalidades. Além disso, realiza as seguintes funções.
 
 :heavy_check_mark: É responsável por estabelecer a comunicação entre diferentes tipos de serviços.
 
