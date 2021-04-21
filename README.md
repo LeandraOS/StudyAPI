@@ -4,15 +4,15 @@
 </p>
 
 ### Índice
-- [O que é o ALOKA?](#o-que-%C3%A9-o-aloka)
+- [O que é o ALOKA?](#o-que-e-o-aloka)
 - [Administrador](#-administrador)
-  - [Cadastro de filmes](#:clipboard::clapper:-Cadastro-de-filmes)
-  - [Exibir locações](#:pencil:-exibir-locacoes)
-  - [Gerenciamento de estoque](#:bar_chart:-Gerenciamento-de-estoque)
-- [Cliente](#👩🏾‍💻👨🏻‍💻-Cliente)
-- [Cadastro de novos clientes](#:clipboard:👩🏼‍💻-Cadastro-de-novos-clientes)
-- [Como executar o projeto?](#:arrow_forward:-Como-executar-o-projeto?)
-- [Equipe do ALOKA(H)](#:pushpin: Equipe do ALOKA(H))
+  - [Cadastro de filmes](#clipboardclapper-cadastro-de-filmes)
+  - [Exibir locações](#pencil-exibir-locacoes)
+  - [Gerenciamento de estoque](#bar_chart-gerenciamento-de-estoque)
+- [Cliente](#-cliente)
+- [Cadastro de novos clientes](#clipboard-cadastro-de-novos-clientes)
+- [Como executar o projeto?](arrow_forward-como-executar-o-projeto)
+- [Equipe do ALOKA(H)](#pushpin-equipe-do-alokah)
 
 O ALOKA é um sistema criado como projeto final da disciplina de Paradigmas de Linguagens de Programação com a finalidade de fixar os conhecimentos de programação funcional.
 
