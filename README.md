@@ -5,7 +5,7 @@
 
 ### Índice
 - [O que é o ALOKA?](#o-que-%C3%A9-o-aloka)
-- [Administrador](#👩🏻‍💼👨🏽‍💼-Administrador)
+- [Administrador](#-administrador)
   - [Cadastro de filmes](#:clipboard::clapper:-Cadastro-de-filmes)
   - [Exibir locações](#:pencil:-exibir-locacoes)
   - [Gerenciamento de estoque](#:bar_chart:-Gerenciamento-de-estoque)
