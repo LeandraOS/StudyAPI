@@ -2,7 +2,7 @@
   
 ### Inicialmente será necessário instalar: 
 
-:arrows_counterclockwise: Compilador e gerenciador de pacotes da linguagem Haskell ([GHC e Cabal](https://www.haskell.org/platform/linux.html)
+:arrows_counterclockwise: Compilador e gerenciador de pacotes da linguagem Haskell ([GHC e Cabal](https://www.haskell.org/platform/linux.html))
 
   ```
   $ sudo apt-get install haskell-platform 
